@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(233, 197, 105);
+}
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+    display: flex;
+            justify-content: center;
+            align-items: center;
+            
+}
+.p1{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+
+}
